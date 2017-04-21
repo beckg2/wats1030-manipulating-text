@@ -1,0 +1,1 @@
+The editor I liked using was emacs. After looking up the commands, I found them easy to use and follow. What I dislike about the editor is that I would have to learn a whole new set of commands to be able to use this more than once.
